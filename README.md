@@ -1,3 +1,3 @@
-# MakroProject
+# Calculator
 
 BU BİR MOBİL PROGRAMLAMA ÖDEVİDİR
